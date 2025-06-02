@@ -1,4 +1,4 @@
-# 📚 Repositório de Estudos: FreeCodeCamp - Full Stack Developer Curriculum
+# 📚 Repositório de Estudos - FreeCodeCamp 
 
 Este repositório reúne os exercícios, anotações e projetos desenvolvidos por mim, **Arthur Haerdy Jr.**, ao longo do cursos da plataforma [FreeCodeCamp](https://www.freecodecamp.org/).
 
