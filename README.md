@@ -1,6 +1,6 @@
 # 📚 Repositório de Estudos: FreeCodeCamp - Full Stack Developer Curriculum
 
-Este repositório reúne os exercícios, anotações e projetos desenvolvidos por mim, **Arthur Haerdy Jr.**, ao longo do curso [Certified Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer/) da plataforma [FreeCodeCamp](https://www.freecodecamp.org/).
+Este repositório reúne os exercícios, anotações e projetos desenvolvidos por mim, **Arthur Haerdy Jr.**, ao longo do cursos da plataforma [FreeCodeCamp](https://www.freecodecamp.org/).
 
 Trata-se de um processo contínuo de atualização de habilidades técnicas em desenvolvimento web moderno, com foco em aplicações full-stack, versionamento de código e boas práticas de programação.
 
@@ -10,10 +10,9 @@ Sou **Engenheiro Eletrônico** e **Administrador de Sistemas Linux**, com sólid
 
 Este repositório complementa meu currículo técnico e reflete meu compromisso com a prática constante e a evolução profissional.
 
-📄 [Currículo completo (PDF)](./Curriculo_Arthur_Tipo_01_Versao_2.5.pdf)  
-🔗 [LinkedIn](https://www.linkedin.com/in/arthur-haerdy-jr/)  
+📄 [Currículo completo (PDF)](./Curriculo_Arthur_Tipo_01_Versao_2.5.pdf)
+🔗 [LinkedIn](https://www.linkedin.com/in/arthur-haerdy-jr/)
 📧 arthur.haerdy@gmail.com
-
 
 Cada diretório contém:
 
