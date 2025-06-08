@@ -3,6 +3,26 @@
 <head>
   <meta charset="UTF-8">
   <title>Projetos FreeCodeCamp</title>
+
+  <!-- 
+  Script para manter o estado aberto/fechado dos elementos <details>
+  usando localStorage. Isso permite que cursos e módulos fiquem 
+  lembrados no estado em que o usuário deixou mesmo após recarregar 
+  ou reabrir a página.
+  -->
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      document.querySelectorAll("details").forEach((el) => {
+        const state = localStorage.getItem(el.id);
+        if (state === "open") el.open = true;
+
+        el.addEventListener("toggle", () => {
+          localStorage.setItem(el.id, el.open ? "open" : "closed");
+        });
+      });
+    });
+  </script>
+
 </head>
 <body>
   <header>
@@ -31,6 +51,7 @@
             <li><a target="_blank" href="Certified_Full_Stack_Developer/01-HTML5/Modulo_02-Semantic_HTML/Etapa_03-Build_an_Event_Hub/Build_an_Event_Hub.html">Etapa_03-Build_an_Event_Hub</a></li>
             <li><a target="_blank" href="Certified_Full_Stack_Developer/01-HTML5/Modulo_02-Semantic_HTML/Etapa_04-Semantic_HTML_Review/Semantic_HTML_Review.md">Etapa_04-Semantic_HTML_Review (markdown)</a></li>
             <h4>🧬 Módulo 03 - Forms and Tables</h4>
+            <li><a target="_blank" href="Certified_Full_Stack_Developer/01-HTML5/Modulo_03-Forms_and_Tables/Etapa_02-Build_a_Hotel_Feedback_Form/Build_a_Hotel_Feedback_Form.html">Build_a_Hotel_Feedback_Form</a></li>
             <!-- Adicione outros links aqui -->
           </ul>
         </details>
@@ -39,4 +60,3 @@
   </main>  
 </body>
 </html>
-
