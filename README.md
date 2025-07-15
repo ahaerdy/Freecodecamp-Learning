@@ -102,10 +102,8 @@ Cada módulo contém:
 
 ## 📚 Recursos Adicionais
 
-- 📄 [Currículo completo (PDF)](Curriculo_Arthur_Tipo_01_Versao_2.5.pdf)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arthur-haerdy-jr/)
 - 📧 [arthur.haerdy@gmail.com](mailto:arthur.haerdy@gmail.com)
-- 🌐 [Sistema Web Institucional](https://github.com/ahaerdy/sistema-web-institucional)
 
 ## 🔄 Atualizações
 
