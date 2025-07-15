@@ -1,4 +1,4 @@
-# freeCodeCamp - Certified Full Stack Developer Curriculum
+# FreeCodeCamp - Certified Full Stack Developer Curriculum
 
 Este repositório documenta minha jornada através do **Certified Full Stack Developer Curriculum** da plataforma [freeCodeCamp](https://www.freecodecamp.org/learn/full-stack-developer/), um programa abrangente que cobre todas as competências necessárias para desenvolvimento full-stack moderno.
 
