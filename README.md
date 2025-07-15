@@ -111,8 +111,6 @@ Cada módulo contém:
 
 Este repositório é atualizado continuamente conforme o avanço nos módulos do curso e inclusão de novos projetos.
 
-**Última atualização:** [Data atual]
-
 ---
 
 Para clonar e acompanhar:
