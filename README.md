@@ -1,7 +1,5 @@
 # FreeCodeCamp - Certified Full Stack Developer Curriculum
 
-# FreeCodeCamp - Certified Full Stack Developer Curriculum
-
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20andamento-yellow" />
   <img src="https://img.shields.io/badge/Currículo-Full%20Stack%20Developer-blue?logo=freecodecamp" />
