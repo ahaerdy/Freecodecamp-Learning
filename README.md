@@ -33,20 +33,15 @@ O **Certified Full Stack Developer Curriculum** é um programa completo que abra
 ## 📋 Roadmap do Curso
 
 ### 📊 Progresso Atual
-- [ ] **Módulo 1:** Fundamentos HTML/CSS
-- [ ] **Módulo 2:** JavaScript Fundamentals
-- [ ] **Módulo 3:** Responsive Web Design
-- [ ] **Módulo 4:** JavaScript Algorithms & Data Structures
-- [ ] **Módulo 5:** Front End Development Libraries
-- [ ] **Módulo 6:** Data Visualization
-- [ ] **Módulo 7:** Back End Development & APIs
-- [ ] **Módulo 8:** Quality Assurance
-- [ ] **Módulo 9:** Scientific Computing with Python
-- [ ] **Módulo 10:** Data Analysis with Python
-- [ ] **Módulo 11:** Information Security
-- [ ] **Módulo 12:** Machine Learning with Python
-- [ ] **Módulo 13:** Coding Interview Prep
-- [ ] **Módulo 14:** Portfolio Projects
+
+- [ ] **Curso 1:** HTML5
+- [ ] **Curso 2:** CSS
+- [ ] **Curso 3:** Javascript
+- [ ] **Curso 4:** Front End Libraries
+- [ ] **Curso 5:** Python 
+- [ ] **Curso 6:** Relational Databases
+- [ ] **Curso 7:** Backend Javascript 
+- [ ] **Curso 8:** Carrer 
 
 *Nota: Alguns módulos podem ainda estar em desenvolvimento ("coming soon")*
 
