@@ -41,7 +41,7 @@ O **Certified Full Stack Developer Curriculum** é um programa completo que abra
 - [ ] **Módulo 5:** Python 
 - [ ] **Módulo 6:** Relational Databases
 - [ ] **Módulo 7:** Backend Javascript 
-- [ ] **Módulo 8:** Carrer 
+- [ ] **Módulo 8:** Carreer 
 
 *Nota: Alguns módulos podem ainda estar em desenvolvimento ("coming soon")*
 
