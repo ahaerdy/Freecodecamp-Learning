@@ -33,23 +33,23 @@ Introdução à estrutura básica de documentos HTML. Esta seção apresenta os 
 
 ### Atividades
 
-- [x] Build a Curriculum Outline
-- [x] Welcome Message from Quincy Larson
-- [x] Debug Camperbot's Profile Page
-- [x] Understanding HTML Attributes
-- [x] Debug a Pet Adoption Page
-- [x] Understanding the HTML Boilerplate
-- [x] Build a Cat Photo App
-- [x] Build a Recipe Page
-- [x] HTML Fundamentals
-- [x] Build a Travel Agency Page
-- [x] Working with Audio and Video Elements
-- [x] Working with Images and SVGs
-- [x] Working with the iframe Element
-- [x] Build a Video Compilation Page
-- [x] Working with Links
-- [x] Basic HTML Review
-- [x] Basic HTML Quiz
+- [x] 01-Build a Curriculum Outline
+- [x] 02-Welcome Message from Quincy Larson
+- [x] 03-Debug Camperbot's Profile Page
+- [x] 04-Understanding HTML Attributes
+- [x] 05-Debug a Pet Adoption Page
+- [x] 06-Understanding the HTML Boilerplate
+- [x] 07-Build a Cat Photo App
+- [x] 08-Build a Recipe Page
+- [x] 09-HTML Fundamentals
+- [x] 10-Build a Travel Agency Page
+- [x] 11-Working with Audio and Video Elements
+- [x] 12-Working with Images and SVGs
+- [x] 13-Working with the iframe Element
+- [x] 14-Build a Video Compilation Page
+- [x] 15-Working with Links
+- [x] 16-Basic HTML Review
+- [x] 17-Basic HTML Quiz
  
 ## Etapa 2 - Semantic HTML
 
