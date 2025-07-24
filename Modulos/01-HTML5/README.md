@@ -33,7 +33,7 @@ Introdução à estrutura básica de documentos HTML. Esta seção apresenta os 
 
 ### Atividades
 
-- [x] 01-Build a Curriculum Outline
+- [x] 01-[Build a Curriculum Outline](https://github.com/ahaerdy/Freecodecamp-Learning/tree/master/Modulos/01-HTML5/01-Etapa_01-Basic_HTML5/01-Build_a_Curriculum_Outline)
 - [x] 02-Welcome Message from Quincy Larson
 - [x] 03-Debug Camperbot's Profile Page
 - [x] 04-Understanding HTML Attributes
