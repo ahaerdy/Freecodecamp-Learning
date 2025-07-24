@@ -52,6 +52,6 @@ Noções fundamentais de acessibilidade web aplicadas ao HTML. A seção destaca
 - Aplicação de atributos `alt` em imagens e `label` associada corretamente aos campos de formulário
 - Estruturação de conteúdo para leitores de tela e navegação por teclado
 
-# Etapa 5 - HTML Review
+## Etapa 5 - HTML Review
 
 Revisão de todo o conteúdo das 4 etapas anteriores.
