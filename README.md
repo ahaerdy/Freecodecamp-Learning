@@ -34,7 +34,7 @@ O **Certified Full Stack Developer Curriculum** é um programa completo que abra
 
 ### 📊 Progresso Atual
 
-- [x] **Módulo 1:** HTML5
+- [x] **Módulo 1:** [HTML5](https://github.com/ahaerdy/Freecodecamp-Learning/tree/master/Modulos/01-HTML5)
 - [ ] **Módulo 2:** CSS
 - [ ] **Módulo 3:** Javascript
 - [ ] **Módulo 4:** Front End Libraries
