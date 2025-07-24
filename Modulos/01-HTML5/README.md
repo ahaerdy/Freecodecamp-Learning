@@ -1,10 +1,15 @@
 # Módulo 1: HTML
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/Etapas%20Concluídas-5%20de%205-success?style=for-the-badge&logo=progress" alt="Etapas Concluídas"/>
-  <img src="https://img.shields.io/badge/freeCodeCamp-Certified%20Curriculum-006400?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Badge"/>
-  <img src="https://img.shields.io/github/license/ahaerdy/Freecodecamp-Learning?style=for-the-badge" alt="License Badge"/>
+  <img src="https://img.shields.io/badge/status-concluído-brightgreen" />
+  <img src="https://img.shields.io/badge/Módulo-HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/github/last-commit/ahaerdy/Freecodecamp-Learning" />
+  <img src="https://img.shields.io/github/repo-size/ahaerdy/Freecodecamp-Learning" />
+  <img src="https://img.shields.io/github/issues/ahaerdy/Freecodecamp-Learning" />
+  <img src="https://img.shields.io/github/license/ahaerdy/Freecodecamp-Learning" />
+  <a href="https://www.linkedin.com/in/arthur-haerdy-jr/">
+    <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Haerdy%20Jr.-0077B5?logo=linkedin" />
+  </a>
 </p>
 
 O primeiro módulo do Certified Full Stack Developer da freeCodeCamp é dedicado à introdução e fundamentos do HTML5, com foco em marcação semântica, acessibilidade e criação de formulários e tabelas.
