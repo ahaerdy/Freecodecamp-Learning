@@ -1,4 +1,4 @@
-➡️ Módulo 01-HTML5 / Etapa 01-Basic HTML / Atividade 01-Build a Curriculum Outline
+➡️ Módulo 01-HTML5 / Etapa 01-Basic HTML / **Atividade 01-Build a Curriculum Outline**
 
 ## 🟩 Step 1 
 
