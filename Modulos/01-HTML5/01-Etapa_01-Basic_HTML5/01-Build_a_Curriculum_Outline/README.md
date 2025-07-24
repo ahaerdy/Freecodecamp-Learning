@@ -23,3 +23,17 @@ HTML is made up of elements. The first one you will use is the h1 element:
 It starts with an opening tag (`<h1>`), ends with a closing tag (`</h1>`), and has the text it will display in between the tags.
 
 Turn your Welcome to freeCodeCamp text into an h1 element by adding an opening tag in front of it, and a closing tag after it.
+
+## 🟩 Step 3
+
+Notice that the HTML you write in the editor shows up in the preview. In this workshop, you will write the HTML for a partial curriculum webpage.
+
+Below your h1 element, type the following on the empty line:
+
+```
+Full Stack Curriculum
+```
+
+---
+
+(..)
