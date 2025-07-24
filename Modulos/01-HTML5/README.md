@@ -1,6 +1,6 @@
 # Módulo 1: HTML
 
-O Módulo 1 do currículo Certified Full Stack Developer da freeCodeCamp é dedicado à introdução e fundamentos do HTML5, com foco em marcação semântica, acessibilidade e criação de formulários e tabelas.
+O primeiro módulo do Certified Full Stack Developer da freeCodeCamp é dedicado à introdução e fundamentos do HTML5, com foco em marcação semântica, acessibilidade e criação de formulários e tabelas.
 
 Este módulo está estruturado em quatro seções principais e inclui atividades práticas para fixação dos conceitos apresentados.
 
