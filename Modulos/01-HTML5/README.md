@@ -19,25 +19,25 @@ Introdução à estrutura básica de documentos HTML. Esta seção apresenta os 
 - Comentários em HTML
 - Estruturação básica de conteúdo textual
 
-### Seções
+### Atividades
 
-    - [ ] Build a Curriculum Outline
-    - [ ] Welcome Message from Quincy Larson
-    - [ ] Debug Camperbot's Profile Page
-    - [ ] Understanding HTML Attributes
-    - [ ] Debug a Pet Adoption Page
-    - [ ] Understanding the HTML Boilerplate
-    - [ ] Build a Cat Photo App
-    - [ ] Build a Recipe Page
-    - [ ] HTML Fundamentals
-    - [ ] Build a Travel Agency Page
-    - [ ] Working with Audio and Video Elements
-    - [ ] Working with Images and SVGs
-    - [ ] Working with the iframe Element
-    - [ ] Build a Video Compilation Page
-    - [ ] Working with Links
-    - [ ] Basic HTML Review
-    - [ ] Basic HTML Quiz
+- [x] Build a Curriculum Outline
+- [x] Welcome Message from Quincy Larson
+- [x] Debug Camperbot's Profile Page
+- [x] Understanding HTML Attributes
+- [x] Debug a Pet Adoption Page
+- [x] Understanding the HTML Boilerplate
+- [x] Build a Cat Photo App
+- [x] Build a Recipe Page
+- [x] HTML Fundamentals
+- [x] Build a Travel Agency Page
+- [x] Working with Audio and Video Elements
+- [x] Working with Images and SVGs
+- [x] Working with the iframe Element
+- [x] Build a Video Compilation Page
+- [x] Working with Links
+- [x] Basic HTML Review
+- [x] Basic HTML Quiz
  
 ## Etapa 2 - Semantic HTML
 
