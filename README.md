@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Tecnologias-HTML%2C%20CSS%2C%20JS%2C%20Python-orange?logo=javascript" />
   <img src="https://img.shields.io/github/repo-size/ahaerdy/freecodecamp" />
   <img src="https://img.shields.io/github/last-commit/ahaerdy/freecodecamp" />
-  <img src="https://img.shields.io/badge/Módulos%20concluídos-0%20de%2014-lightgrey" />
+  <img src="https://img.shields.io/badge/Módulos%20concluídos-0%20de%208-lightgrey" />
   <a href="https://www.linkedin.com/in/arthur-haerdy-jr/">
     <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Haerdy%20Jr.-0077B5?logo=linkedin" />
   </a>
