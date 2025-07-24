@@ -6,7 +6,7 @@ Este módulo está estruturado em quatro seções principais e inclui atividades
 
 # 📚 Conteúdo Programático
 
-## 1. Basic HTML
+## Erapa 1 - Basic HTML
 
 Introdução à estrutura básica de documentos HTML. Esta seção apresenta os elementos fundamentais utilizados para construir e organizar páginas web, incluindo:
 
@@ -19,7 +19,7 @@ Introdução à estrutura básica de documentos HTML. Esta seção apresenta os 
 - Comentários em HTML
 - Estruturação básica de conteúdo textual
 
-## 2. Semantic HTML
+## Etapa 2 - Semantic HTML
 
 Exploração de elementos semânticos introduzidos com o HTML5, voltados à melhoria da legibilidade do código, organização da estrutura do conteúdo e acessibilidade. 
 
@@ -30,7 +30,7 @@ São abordados:
 - Boas práticas no uso de marcação semântica
 - Separação lógica e funcional do conteúdo
 
-## 3. Forms and Tables
+## Etapa 3 - Forms and Tables
 
 Apresentação de elementos voltados à coleta e exibição de dados em páginas HTML. 
 
@@ -43,7 +43,7 @@ Esta seção inclui:
 - Criação de tabelas com `<table>`, `<thead>`, `<tbody>`, `<tr>`, `<td>`, `<th>`
 - Uso de atributos como `name`, `value`, `placeholder`, `required`, `checked`, `selected`
 
-## 4. Accessibility
+## Etapa 4 - Accessibility
 
 Noções fundamentais de acessibilidade web aplicadas ao HTML. A seção destaca:
 
@@ -52,12 +52,6 @@ Noções fundamentais de acessibilidade web aplicadas ao HTML. A seção destaca
 - Aplicação de atributos `alt` em imagens e `label` associada corretamente aos campos de formulário
 - Estruturação de conteúdo para leitores de tela e navegação por teclado
 
-# 🧩 Projeto Final
+# Etapa 5 - HTML Review
 
-O módulo é concluído com o desenvolvimento de uma **Página de Homenagem (Tribute Page)**. Este projeto aplica os conhecimentos adquiridos em uma página estática que apresenta:
-
-- Cabeçalho com título e imagem ilustrativa
-- Corpo textual com estrutura semântica
-- Citação destacada e lista de eventos ou marcos históricos
-- Link externo para fonte adicional ou biografia
-- Boa prática de acessibilidade e marcação limpa
+Revisão de todo o conteúdo das 4 etapas anteriores.
